@@ -1,0 +1,6 @@
+{
+  "name": "The Aerospace Club - MITS Gwalior",
+  "description": "Official website of The Aerospace Club at MITS Gwalior - Exploring cosmos, designing aircraft, Student Rocket Program (SRP) & Satellite Program (SSP). Founded 2018, 250+ members strong.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
